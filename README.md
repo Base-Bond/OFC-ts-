@@ -5,7 +5,7 @@ This template provides a minimal setup to get you working with Onchainkit
 ## How to use
 - Clone the repository
   ```
-  git clone https://github.com/Base-Bond/OFL-ts-
+  git clone https://github.com/Base-Bond/OFL-ts-.git
   cd OFL-ts-
   npm install
   npm run dev
