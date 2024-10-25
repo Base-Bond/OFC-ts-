@@ -1,6 +1,6 @@
 # Onchainkit Function Library -> React + TypeScript + Onchainkit
 
-This template provides a minimal setup to get Onchainkit working in React(ts)
+This template provides a minimal setup to get you working with Onchainkit 
 
 ## How to use
 - Clone the repository
@@ -11,4 +11,6 @@ This template provides a minimal setup to get Onchainkit working in React(ts)
   npm run dev
   ```
 - Edit the .env file and replace the current API KEY with your project Coinbase Developer API KEY
+  get it here: [Coinbase Developer Platform](https://portal.cdp.coinbase.com/projects/project-id/api-keys/client-key)
 - Enjoy
+credits to [Onchainkit](https://onchainkit.xyz)
