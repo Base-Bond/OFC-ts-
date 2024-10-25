@@ -12,5 +12,5 @@ This template provides a minimal setup to get you working with Onchainkit
   ```
 - Edit the .env file and replace the current API KEY with your project Coinbase Developer API KEY
   get it here: [Coinbase Developer Platform](https://portal.cdp.coinbase.com/projects/project-id/api-keys/client-key)
-- Enjoy
-credits to [Onchainkit](https://onchainkit.xyz)
+- Tweak whatever components you like to suit your dapp.
+- credits to [Onchainkit](https://onchainkit.xyz)
